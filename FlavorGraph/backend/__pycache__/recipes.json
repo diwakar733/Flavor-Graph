@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Spaghetti Carbonara",
+    "ingredients": ["spaghetti", "eggs", "parmesan cheese", "pancetta", "black pepper"],
+    "instructions": "Cook spaghetti. Mix eggs and cheese. Fry pancetta. Combine.",
+    "substitutions": {"pancetta": "bacon", "parmesan cheese": "pecorino"}
+  },
+  {
+    "name": "Chicken Stir Fry",
+    "ingredients": ["chicken breast", "broccoli", "bell peppers", "soy sauce", "garlic"],
+    "instructions": "Stir fry chicken and veggies with sauce.",
+    "substitutions": {"chicken breast": "tofu", "soy sauce": "tamari"}
+  },
+  {
+    "name": "Vegetable Curry",
+    "ingredients": ["potatoes", "carrots", "onions", "curry powder", "coconut milk"],
+    "instructions": "Sauté veggies, add spices and milk, simmer.",
+    "substitutions": {"coconut milk": "yogurt", "curry powder": "garam masala"}
+  },
+  {
+    "name": "Beef Tacos",
+    "ingredients": ["ground beef", "taco shells", "lettuce", "cheese", "tomatoes"],
+    "instructions": "Cook beef, assemble tacos.",
+    "substitutions": {"ground beef": "lentils", "taco shells": "lettuce wraps"}
+  },
+  {
+    "name": "Salmon Salad",
+    "ingredients": ["salmon", "mixed greens", "avocado", "lemon", "olive oil"],
+    "instructions": "Grill salmon, mix with salad.",
+    "substitutions": {"salmon": "tuna", "avocado": "cucumber"}
+  },
+  {
+    "name": "Pancakes",
+    "ingredients": ["flour", "milk", "eggs", "baking powder", "butter"],
+    "instructions": "Mix batter, cook on griddle.",
+    "substitutions": {"milk": "almond milk", "butter": "oil"}
+  },
+  {
+    "name": "Tomato Soup",
+    "ingredients": ["tomatoes", "onions", "garlic", "vegetable broth", "cream"],
+    "instructions": "Blend cooked tomatoes and veggies.",
+    "substitutions": {"cream": "coconut cream", "vegetable broth": "chicken broth"}
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "ingredients": ["bread", "cheese", "butter"],
+    "instructions": "Butter bread, add cheese, grill.",
+    "substitutions": {"cheese": "vegan cheese", "butter": "margarine"}
+  },
+  {
+    "name": "Chicken Parmesan",
+    "ingredients": ["chicken breast", "marinara sauce", "mozzarella", "parmesan", "breadcrumbs"],
+    "instructions": "Bread chicken, bake with sauce and cheese.",
+    "substitutions": {"chicken breast": "eggplant", "mozzarella": "vegan cheese"}
+  },
+  {
+    "name": "Quinoa Bowl",
+    "ingredients": ["quinoa", "black beans", "corn", "avocado", "lime"],
+    "instructions": "Cook quinoa, mix with toppings.",
+    "substitutions": {"quinoa": "rice", "black beans": "kidney beans"}
+  },
+  {
+    "name": "Beef Stew",
+    "ingredients": ["beef", "potatoes", "carrots", "onions", "beef broth"],
+    "instructions": "Slow cook beef and veggies.",
+    "substitutions": {"beef": "mushrooms", "beef broth": "vegetable broth"}
+  },
+  {
+    "name": "Caesar Salad",
+    "ingredients": ["romaine lettuce", "croutons", "parmesan", "caesar dressing", "chicken"],
+    "instructions": "Toss lettuce with dressing and toppings.",
+    "substitutions": {"chicken": "tofu", "caesar dressing": "vinaigrette"}
+  },
+  {
+    "name": "Mushroom Risotto",
+    "ingredients": ["arborio rice", "mushrooms", "onions", "white wine", "parmesan"],
+    "instructions": "Cook rice with broth, add mushrooms.",
+    "substitutions": {"white wine": "broth", "parmesan": "nutritional yeast"}
+  },
+  {
+    "name": "Turkey Chili",
+    "ingredients": ["ground turkey", "beans", "tomatoes", "onions", "chili powder"],
+    "instructions": "Cook turkey, add veggies and spices.",
+    "substitutions": {"ground turkey": "lentils", "beans": "corn"}
+  },
+  {
+    "name": "Banana Bread",
+    "ingredients": ["bananas", "flour", "sugar", "eggs", "baking soda"],
+    "instructions": "Mash bananas, mix batter, bake.",
+    "substitutions": {"eggs": "applesauce", "sugar": "honey"}
+  },
+  {
+    "name": "Shrimp Scampi",
+    "ingredients": ["shrimp", "pasta", "garlic", "butter", "lemon"],
+    "instructions": "Cook pasta, sauté shrimp in garlic butter.",
+    "substitutions": {"shrimp": "chicken", "butter": "olive oil"}
+  },
+  {
+    "name": "Egg Fried Rice",
+    "ingredients": ["rice", "eggs", "peas", "carrots", "soy sauce"],
+    "instructions": "Fry rice with veggies and eggs.",
+    "substitutions": {"eggs": "tofu", "soy sauce": "tamari"}
+  },
+  {
+    "name": "Lentil Soup",
+    "ingredients": ["lentils", "carrots", "celery", "onions", "vegetable broth"],
+    "instructions": "Cook lentils with veggies.",
+    "substitutions": {"lentils": "split peas", "vegetable broth": "water"}
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "ingredients": ["flour", "butter", "sugar", "chocolate chips", "eggs"],
+    "instructions": "Mix dough, bake cookies.",
+    "substitutions": {"butter": "coconut oil", "eggs": "flax eggs"}
+  },
+  {
+    "name": "Fish Tacos",
+    "ingredients": ["fish fillets", "taco shells", "cabbage", "lime", "cilantro"],
+    "instructions": "Grill fish, assemble tacos.",
+    "substitutions": {"fish fillets": "shrimp", "taco shells": "corn tortillas"}
+  },
+  {
+    "name": "Vegetable Stir Fry",
+    "ingredients": ["broccoli", "carrots", "bell peppers", "soy sauce", "tofu"],
+    "instructions": "Stir fry veggies and tofu.",
+    "substitutions": {"tofu": "chicken", "soy sauce": "hoisin"}
+  },
+  {
+    "name": "Meatloaf",
+    "ingredients": ["ground beef", "breadcrumbs", "onions", "eggs", "ketchup"],
+    "instructions": "Mix ingredients, bake.",
+    "substitutions": {"ground beef": "turkey", "eggs": "mayo"}
+  },
+  {
+    "name": "Caprese Salad",
+    "ingredients": ["tomatoes", "mozzarella", "basil", "olive oil", "balsamic vinegar"],
+    "instructions": "Layer ingredients.",
+    "substitutions": {"mozzarella": "feta", "basil": "spinach"}
+  },
+  {
+    "name": "Chicken Noodle Soup",
+    "ingredients": ["chicken", "noodles", "carrots", "celery", "chicken broth"],
+    "instructions": "Cook chicken and veggies, add noodles.",
+    "substitutions": {"chicken": "tofu", "chicken broth": "vegetable broth"}
+  },
+  {
+    "name": "Pesto Pasta",
+    "ingredients": ["pasta", "pesto", "cherry tomatoes", "parmesan", "pine nuts"],
+    "instructions": "Cook pasta, mix with pesto.",
+    "substitutions": {"pesto": "alfredo sauce", "pine nuts": "walnuts"}
+  },
+  {
+    "name": "Beef Burgers",
+    "ingredients": ["ground beef", "buns", "lettuce", "tomato", "onion"],
+    "instructions": "Grill patties, assemble burgers.",
+    "substitutions": {"ground beef": "black beans", "buns": "lettuce wraps"}
+  },
+  {
+    "name": "Fruit Salad",
+    "ingredients": ["strawberries", "bananas", "apples", "oranges", "kiwi"],
+    "instructions": "Chop and mix fruits.",
+    "substitutions": {"strawberries": "blueberries", "bananas": "pears"}
+  },
+  {
+    "name": "Potato Leek Soup",
+    "ingredients": ["potatoes", "leeks", "butter", "vegetable broth", "cream"],
+    "instructions": "Cook leeks, add potatoes and broth.",
+    "substitutions": {"butter": "oil", "cream": "milk"}
+  },
+  {
+    "name": "Tuna Salad",
+    "ingredients": ["tuna", "mayo", "celery", "onion", "bread"],
+    "instructions": "Mix tuna with veggies, serve on bread.",
+    "substitutions": {"tuna": "chicken", "mayo": "yogurt"}
+  },
+  {
+    "name": "Eggplant Parmesan",
+    "ingredients": ["eggplant", "marinara sauce", "mozzarella", "parmesan", "breadcrumbs"],
+    "instructions": "Bread eggplant, bake with sauce.",
+    "substitutions": {"eggplant": "zucchini", "mozzarella": "ricotta"}
+  },
+  {
+    "name": "Quiche Lorraine",
+    "ingredients": ["pie crust", "eggs", "cream", "bacon", "cheese"],
+    "instructions": "Mix filling, bake in crust.",
+    "substitutions": {"bacon": "ham", "cream": "milk"}
+  },
+  {
+    "name": "Stuffed Peppers",
+    "ingredients": ["bell peppers", "ground beef", "rice", "tomatoes", "cheese"],
+    "instructions": "Stuff peppers with mixture, bake.",
+    "substitutions": {"ground beef": "lentils", "rice": "quinoa"}
+  },
+  {
+    "name": "Clam Chowder",
+    "ingredients": ["clams", "potatoes", "onions", "cream", "bacon"],
+    "instructions": "Cook clams and veggies.",
+    "substitutions": {"clams": "mussels", "cream": "milk"}
+  },
+  {
+    "name": "Falafel Wraps",
+    "ingredients": ["falafel", "pita bread", "lettuce", "tomato", "tahini"],
+    "instructions": "Wrap falafel in pita with veggies.",
+    "substitutions": {"falafel": "chickpeas", "tahini": "hummus"}
+  },
+  {
+    "name": "Apple Pie",
+    "ingredients": ["apples", "pie crust", "sugar", "cinnamon", "butter"],
+    "instructions": "Fill crust with apples, bake.",
+    "substitutions": {"apples": "pears", "butter": "oil"}
+  },
+  {
+    "name": "Shakshuka",
+    "ingredients": ["eggs", "tomatoes", "onions", "peppers", "cumin"],
+    "instructions": "Cook sauce, poach eggs in it.",
+    "substitutions": {"eggs": "tofu", "cumin": "paprika"}
+  },
+  {
+    "name": "Ratatouille",
+    "ingredients": ["eggplant", "zucchini", "bell peppers", "tomatoes", "herbs"],
+    "instructions": "Cook veggies together.",
+    "substitutions": {"eggplant": "potatoes", "zucchini": "cucumber"}
+  },
+  {
+    "name": "Bibimbap",
+    "ingredients": ["rice", "beef", "spinach", "carrots", "eggs"],
+    "instructions": "Cook rice and toppings, mix.",
+    "substitutions": {"beef": "tofu", "eggs": "tofu"}
+  },
+  {
+    "name": "Paella",
+    "ingredients": ["rice", "seafood", "peas", "peppers", "saffron"],
+    "instructions": "Cook rice with seafood and veggies.",
+    "substitutions": {"seafood": "chicken", "saffron": "turmeric"}
+  },
+  {
+    "name": "Goulash",
+    "ingredients": ["beef", "paprika", "onions", "potatoes", "carrots"],
+    "instructions": "Slow cook beef with veggies.",
+    "substitutions": {"beef": "pork", "paprika": "chili powder"}
+  },
+  {
+    "name": "Frittata",
+    "ingredients": ["eggs", "spinach", "cheese", "onions", "potatoes"],
+    "instructions": "Mix ingredients, bake.",
+    "substitutions": {"eggs": "egg whites", "cheese": "feta"}
+  },
+  {
+    "name": "Cobb Salad",
+    "ingredients": ["lettuce", "chicken", "bacon", "avocado", "eggs"],
+    "instructions": "Arrange ingredients on lettuce.",
+    "substitutions": {"chicken": "turkey", "bacon": "prosciutto"}
+  },
+  {
+    "name": "Lasagna",
+    "ingredients": ["pasta sheets", "ground beef", "ricotta", "mozzarella", "marinara"],
+    "instructions": "Layer ingredients, bake.",
+    "substitutions": {"ground beef": "sausage", "ricotta": "cottage cheese"}
+  },
+  {
+    "name": "Pad Thai",
+    "ingredients": ["rice noodles", "shrimp", "peanuts", "bean sprouts", "lime"],
+    "instructions": "Stir fry noodles with shrimp.",
+    "substitutions": {"shrimp": "chicken", "peanuts": "cashews"}
+  },
+  {
+    "name": "Bouillabaisse",
+    "ingredients": ["fish", "shellfish", "fennel", "tomatoes", "saffron"],
+    "instructions": "Cook fish in broth.",
+    "substitutions": {"fish": "seafood mix", "saffron": "turmeric"}
+  },
+  {
+    "name": "Tiramisu",
+    "ingredients": ["ladyfingers", "mascarpone", "coffee", "cocoa", "eggs"],
+    "instructions": "Layer soaked ladyfingers with cream.",
+    "substitutions": {"mascarpone": "cream cheese", "eggs": "none"}
+  },
+  {
+    "name": "Sushi Rolls",
+    "ingredients": ["sushi rice", "nori", "cucumber", "avocado", "fish"],
+    "instructions": "Roll rice and fillings in nori.",
+    "substitutions": {"fish": "tofu", "nori": "seaweed"}
+  },
+  {
+    "name": "Chili Con Carne",
+    "ingredients": ["ground beef", "beans", "tomatoes", "onions", "chili powder"],
+    "instructions": "Cook beef with beans and spices.",
+    "substitutions": {"ground beef": "turkey", "beans": "corn"}
+  },
+  {
+    "name": "Crepes",
+    "ingredients": ["flour", "milk", "eggs", "butter", "sugar"],
+    "instructions": "Make batter, cook thin pancakes.",
+    "substitutions": {"milk": "soy milk", "butter": "oil"}
+  },
+  {
+    "name": "Gazpacho",
+    "ingredients": ["tomatoes", "cucumber", "peppers", "garlic", "olive oil"],
+    "instructions": "Blend ingredients cold.",
+    "substitutions": {"tomatoes": "red peppers", "cucumber": "celery"}
+  },
+  {
+    "name": "Beignets",
+    "ingredients": ["flour", "milk", "eggs", "yeast", "powdered sugar"],
+    "instructions": "Fry dough, dust with sugar.",
+    "substitutions": {"milk": "buttermilk", "eggs": "none"}
+  },
+  {
+    "name": "Kimchi Fried Rice",
+    "ingredients": ["rice", "kimchi", "eggs", "green onions", "sesame oil"],
+    "instructions": "Fry rice with kimchi.",
+    "substitutions": {"kimchi": "sauerkraut", "sesame oil": "olive oil"}
+  },
+  {
+    "name": "Miso Soup",
+    "ingredients": ["miso paste", "tofu", "seaweed", "green onions", "dashi"],
+    "instructions": "Dissolve miso in broth, add toppings.",
+    "substitutions": {"miso paste": "soy sauce", "dashi": "vegetable broth"}
+  },
+  {
+    "name": "Huevos Rancheros",
+    "ingredients": ["eggs", "tortillas", "beans", "salsa", "cheese"],
+    "instructions": "Fry eggs, serve on tortillas with toppings.",
+    "substitutions": {"eggs": "tofu", "cheese": "avocado"}
+  },
+  {
+    "name": "Baklava",
+    "ingredients": ["phyllo dough", "nuts", "honey", "butter", "cinnamon"],
+    "instructions": "Layer dough with nuts, bake, soak in syrup.",
+    "substitutions": {"phyllo dough": "puff pastry", "honey": "syrup"}
+  },
+  {
+    "name": "Risotto alla Milanese",
+    "ingredients": ["arborio rice", "saffron", "onions", "white wine", "parmesan"],
+    "instructions": "Cook rice with saffron.",
+    "substitutions": {"saffron": "turmeric", "white wine": "broth"}
+  }
+]

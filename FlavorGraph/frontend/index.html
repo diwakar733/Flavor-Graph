@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlavorGraph - Intelligent Recipe Navigator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>FlavorGraph</h1>
+        <p>Intelligent Recipe Navigator with Algorithmic Insights</p>
+    </header>
+    <main>
+        <section id="input-section">
+            <h2>Enter Your Available Ingredients</h2>
+            <textarea id="ingredients-input" placeholder="e.g., chicken, rice, onions, garlic... (separate with commas)"></textarea>
+            <label style="display: block; margin: 1rem 0; font-size: 0.9rem; color: #666;">
+                <input type="checkbox" id="backtracking-toggle"> Use Backtracking for Exact Ingredient Combinations (slower but precise)
+            </label>
+            <button id="suggest-btn">Get Recipe Suggestions</button>
+        </section>
+        <section id="results-section">
+            <h2>Suggested Recipes</h2>
+            <div id="loading">Generating suggestions...</div>
+            <div id="results" class="recipes-grid"></div>
+        </section>
+        <section id="complements-section" style="display: none;">
+            <h2>Complementary Ingredients to Try</h2>
+            <div id="complements"></div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
